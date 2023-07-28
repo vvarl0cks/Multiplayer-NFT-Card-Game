@@ -72,7 +72,8 @@ export default PageHOC(
     Welcome to Avax Gods <br /> a Web3 Multiplayer NFT Card Game
   </>,
   <>
-    Connect your wallet to start playing <br /> the ultimate Web3 Battle Card
-    Game
+    Connect your wallet to start playing <br />
+    The ultimate Web3 Battle Card Game <br />
+    Avalanche (Fuji) Testnet
   </>,
 );
