@@ -1,6 +1,6 @@
 # Avax Gods - Web3 Multiplayer NFT Card Game   
 
-Create your characters, create and join live battles, choose your battleground, and battle other players in real-time!   
+Create and join live battles, Choose your Battleground, and Battle other players in real-time!     
 
 Avalanche is an open, programmable smart contracts platform for decentralized applications. It allows you to build fast, low-cost, Solidity-compatible dApps, and launch customized blockchain networks via Subnets. Create without limits - Build anything you want, any way you want.   
 
