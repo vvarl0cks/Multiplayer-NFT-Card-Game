@@ -11,7 +11,7 @@ Avalanche has the tooling and composability you need to speed from concept to la
 📙AvalancheJS - https://github.com/ava-labs/avalanchejs   
 📙Postman Collection - https://github.com/ava-labs/avalanche-postman-collection   
 
-# Demo   
+# Demo ⏩ https://warl0cks-multiplayer-nftcardgame.netlify.app   
 
 <a href="https://github.com/vvarl0cks/Multiplayer-NFT-Card-Game"><img src="https://iili.io/HZCRmqg.png" alt="Web3 Multiplayer NFT Card Game" border="0" /></a>   
 
@@ -19,7 +19,7 @@ Avalanche has the tooling and composability you need to speed from concept to la
 
 <a href="https://github.com/vvarl0cks/Multiplayer-NFT-Card-Game"><img src="https://iili.io/HZCRZzP.jpg" alt="Web3 Multiplayer NFT Card Game" border="0" /></a>   
 
-**Demo URL: ....⏳**   
+**Demo URL: https://warl0cks-multiplayer-nftcardgame.netlify.app**   
 **Network: Avalanche Fuji Testnet**   
 
 ### Tutorial from [JS Mastery Pro](https://www.jsmastery.pro).
