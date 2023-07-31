@@ -12,7 +12,7 @@ npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
 
-#Deploy   
+# Deploy   
 
 ```bash
 gitpod /workspace/Multiplayer-NFT-Card-Game/backend-web3 (main) $ npx hardhat run scripts/deploy.ts --network fuji
